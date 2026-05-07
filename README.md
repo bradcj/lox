@@ -1,2 +1,2 @@
-# jlox
-The Lox programming language, implemented in Java. From: https://craftinginterpreters.com/
+# lox
+The Lox programming language, following https://craftinginterpreters.com/
